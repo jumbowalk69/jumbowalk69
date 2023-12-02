@@ -1,4 +1,4 @@
-<img src="https://github.com/jumbowalk69/jumbowalk69/assets/84855760/51a35888-5a9a-44e6-b14b-01340bee3014" alt="JUMBOWALK69" height="300" width="100%">
+<img src="https://github.com/jumbowalk69/jumbowalk69/assets/84855760/51a35888-5a9a-44e6-b14b-01340bee3014" alt="JUMBOWALK69" height="350" width="100%">
 
 ### Hi there 👋
 
