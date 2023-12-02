@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 I am Shantanu Dasila AKA jumbowalk69.
 > 
 <https://www.shantanudasila.com>
+<div style="float: left;">
+  <img src="https://img.icons8.com/color/144/null/html-5--v1.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/144/null/css3.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/144/null/javascript--v1.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/144/null/sass.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/officel/144/php-logo.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/fluency/144/mysql-logo.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/ios-glyphs/144/null/react.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/fluency/144/null/node-js.png" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/144/python--v1.png" width="100" height="100"/>
+</div>
